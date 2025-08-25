@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Generator",
+  "description": "A modern web application that generates high-quality images from text descriptions using Google's powerful Imagen 3 model via the Gemini API.",
+  "requestFramePermissions": []
+}
